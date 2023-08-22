@@ -1,0 +1,53 @@
+format: jb-book
+root: index
+parts:
+  - caption: Course Info
+    chapters:
+    - file: start/syllabus
+    - file: start/outcomes
+    - file: start/webwork
+    - file: start/lecture-notes
+  - caption: Help + Support
+    chapters:
+    - file: start/grade-calculator
+    - file: start/office-hours
+    - file: start/additional-help
+      sections:
+      - url: https://www.buffalo.edu/cas/math/ug/help-center.html
+        title: Math Help Center
+      - url: https://arts-sciences.buffalo.edu/ulc/math-place.html
+        title: ULC Math Place
+      - url: https://www.buffalo.edu/studentsuccess/tutoring.html
+        title: Student Success Gateway
+    - file: review/index
+      sections:
+      - file: review/0-chapter
+      - file: review/1-chapter
+      - file: review/2-chapter
+      - file: review/3-chapter
+      - file: review/4-chapter
+      - file: review/5-chapter
+      - file: review/6-chapter
+  - caption: Exam Info
+    chapters: 
+    - file: exams/midterm1
+    - file: exams/midterm2
+    - file: exams/midterm3
+  - caption: Weekly Calendar
+    chapters: 
+    - file: week/index
+    - file: week/1           
+    - file: week/2
+    - file: week/3
+    - file: week/4
+    - file: week/5
+    - file: week/6
+    - file: week/7
+    - file: week/8
+    - file: week/9
+    - file: week/10
+    - file: week/11
+    - file: week/12
+    - file: week/13
+    - file: week/14
+    - file: week/15
