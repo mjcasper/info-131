@@ -7,13 +7,13 @@ The videos included in this section are meant as review only; in case you are ab
 These videos are not meant to replace the preparation videos and our regular lecture and recitation times. 
 ```
 
-|Reading|Lecture Video|Duration|Notes|
+|Reading|Lecture Video|Video Length (minutes)|Lecture Notes|
 | --- | --- | --- | --- |
-|2.1|[Describing Graphs of Functions](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=69330323-8cde-4da5-b09d-a90a00f1d79d)|18|[Notes](https://buffalo.box.com/s/i1eiylk4h25rgymhaad5ix8sagjg8xwj)|
-|2.2|[The First and Second Derivative Rules](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a24010d7-c163-4561-b57b-a90a00f20255)|20|[Notes](https://buffalo.box.com/s/txq9h1wh102yahz9xai2dsrubrelld4e)|
-|2.3a|[The First Derivative Test](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d73aaf65-46e9-4e9f-ac05-a90a00f21893)|17|[Notes](https://buffalo.box.com/s/rkiobcxxl4qtu02i5qmd3eciy447y3l0)|
-|2.3b|[The Second Derivative Test](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=73be0277-43e9-4227-a57f-a90a00f245fd)|28|[Notes](https://buffalo.box.com/s/nhxsur2ii0zv4oflftsiq1lp6ia6zhxi)|
-|2.5|[Optimization](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=50af1528-bcc4-4ead-ab20-a90a00f268e3)|31|[Notes](https://buffalo.box.com/s/msn4v9ogcyzs4eyq4wc2ryfg374ish0f)|
+|2.1|[Quadratic Functions](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6c6c4968-d303-4dfd-9baf-af8100f906d1)|46|[Notes](https://buffalo.box.com/s/idjwlgqcjuh032b27yevud9cps7rzzem)|
+|2.2|[Exponential Functions](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8f6f399a-e2ed-4047-8df9-af8101037c5e)|30|[Notes](https://buffalo.box.com/s/hvatz29bh056q6z6a20gexhazzppin5q)|
+|2.2|[Continuously Compounded Interest](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e0c91825-f879-4637-b880-af81010841c4)|10|[Notes](https://buffalo.box.com/s/4sx164wvha399p0f2z61fpnaztdng60m)|
+|2.3|[Logarithmic Functions](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ef9a2ccd-4379-459e-88f3-af8101119f9b)|30|[Notes](https://buffalo.box.com/s/t6rg1ym4jvctntngw7wmew3nfo0dcpyg)|
+|2.3|[More Continuously Compounded Interest](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b4a06b61-a902-4d36-a58b-af81011c3020)|14|[Notes](https://buffalo.box.com/s/bbzmqvm46v58xider4gnhgwdfsur51r7)|
 
 
 

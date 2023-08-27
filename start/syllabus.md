@@ -4,22 +4,22 @@ Syllabus
 
 
 
-## MTH 131 Calculus and Its Applications 1
+## MTH 131 Mathematical Analysis for Management
 
 
-**LR Sections C(16012), D(18079), G(16974), H(16976)**
+**LR Sections B(15194) and C(16461)**
 
 Credit Hours: 4.0
 
-Spring Semester 2023
+Fall Semester 2023
 SUNY University at Buffalo
 Mathematics Department
 
 
+
+
 ```{include} ../components/00-changes.md
 ```
-
-
 
 > **Time Management Skills** are essential in successfully completing this course. On average, expect to spend approximately **15+&nbsp;hours per week** on work for this class (lessons, assignments, studying, reading, etc.).
 
@@ -33,10 +33,8 @@ Mathematics Department
 
 **Date/Time(s)**
  - Scheduled Class Time: 
-    - **Section C(16012)** held every MWF 10:00-10:50am ET in room NSC 222
-    - **Section D(18079)** held every MWF 11:00-11:50am ET in room NSC 222
-    - **Section G(16974)** held every MWF 2:00-2:50pm ET in room NSC 228
-    - **Section H(16976)** held every MWF 3:00-3:50pm ET in room NSC 228
+    - **Section B(15194)** held every MWF 9:00-9:50am ET in room NSC 220
+    - **Section C(16461)** held every MWF 10:00-10:50am ET in room NSC 210
  - Midterm Exams: Given during our regularly scheduled lecture time.
  - Final Exam: Given during our centrally scheduled time in finals week.
 
@@ -47,28 +45,24 @@ Mathematics Department
 
 **Teaching Assistants:** 
 
-- Kevin Euscher (kevineus@buffalo.edu) - sections H1 and H2
-- Deepisha Solanski (deepisha@buffalo.edu) - section H3
-- Arya Vadnere (aryaabhi@buffalo.edu) - section C1
-- Lucas Kruse (lucaskru@buffalo.edu) - sections C2 and C3
-- Kevin Nguyen (kn58@buffalo.edu) - sections D1 and D2
-- Jun Peng (jpeng3@buffalo.edu) - section D3
-- Laney Wieclaw (laneywie@buffalo.edu) - sections G1 and G3
-- Seth Hovland (sethhovl@buffalo.edu) - section G2
+- Justing Haverlick (jmhaverl@buffalo.edu) - section B1
+- Michael Erickson (erickso2@buffalo.edu) - sections B2 and B3
+- Mars Andersen (anderse3@buffalo.edu) - sections C1 and C2
+- Jnanajyoti Bhaumik (jnanajyo@buffalo.edu) - section C3
 
 
 ### 1.2 Course Description
 
 ```{include} ../components/01-description.md
-:start-after: 131
-:end-before: 141
+:start-after: MTH131
+:end-before: MTH141
 ```
 
 
 **Prerequisites:**
 ```{include} ../components/01-prerequisites.md
-:start-after: 131
-:end-before: 141
+:start-after: MTH131
+:end-before: MTH141
 ```
 
 
@@ -91,7 +85,7 @@ Please let Prof. Casper know during the first week of class if you have any diff
 ```
 
 
-**Blank Paper:** You will need to bring blank, loose-leaf paper with you to every scheduled class time meeting.
+**Participation Paper:** You will need to bring blank, 8.5''x11'' printer paper with you to every scheduled class time meeting.
 
 **Lecture Notes:** You will need to print out and bring the lecture note packet with you to every scheduled class time meeting.
 
@@ -106,8 +100,9 @@ Please let Prof. Casper know during the first week of class if you have any diff
 
 | Software | Cost | Description | Comments |
 |:------------|---|---|---|
-| [Course Website](https://info.bluetangent.org) | free | Contains the syllabus and weekly information (where you are right now) | https://info.bluetangent.org |
-| [WeBWorK](https://webwork.sens.buffalo.edu/webwork2/2023-01-MTH-121-Casper/)                    | free       |  Online homework system              | See [login instructions](webwork). ||
+| [Course Website](https://info-131.bluetangent.org) | free | Contains the syllabus and weekly information (where you are right now) | https://info-131.bluetangent.org |
+| [WeBWorK](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/)                    | free       |  Online homework system              | See [login instructions](webwork). ||
+| Office Lens  [(iOS)](https://apps.apple.com/us/app/microsoft-office-lens-pdf-scan/id975925059)  [Android](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=en_US)            | free       |  Scan to PDF app for your smartphone | There are other apps available, but this one is recommended. |
 
 
 <!--
@@ -138,31 +133,33 @@ The course calendar is listed on the [Weekly Calendar section](week/index) of ou
 
 #### 2.1.1. Important Assessment Dates
 
-- **Preparation** tasks due before each lecture time
-- **Participation** activities will be due during each class time (both lecture and recitation).
+- **Preparation** tasks due before each lecture.
+- **Participation** activities due during each class time.
+
+<!--
 - **Peer Evaluation** assignments due every Wednesday lecture time.
-
-
----
-
-- **Homework** assignments due every Monday at 11:59pm ET.
-- **Homework Notebooks** due every Monday at the beginning of lecture.
-- **Checkpoint Exams** will be given during most Monday lecture days.
+-->
 
 ---
 
-- **Midterm Exam 1:** Friday, March 3rd, during our scheduled lecture time.
-- **Midterm Exam 2:** Wednesday, April 5th, during our scheduled lecture time.
-- **Midterm Exam 3:** Friday, May 5th, during our scheduled lecture time.
-- **Final Exam:** Thursday, May 18th, at 3:30-5:30pm ET.
+- **Homework** assignments due every Monday at 11:59pm ET on WeBWorK.
+- **Homework Notebooks** due every Monday at 11:59pm ET on Gradescope.
+- **Checkpoint Exams** will be given during most recitations.
+
+---
+
+- **Midterm Exam 1:** Friday, September 29th, during our scheduled lecture time.
+- **Midterm Exam 2:** Friday, October 27th, during our scheduled lecture time.
+- **Midterm Exam 3:** Friday, December 1st, during our scheduled lecture time.
+- **Final Exam:** Friday, December 15th, at 8:30-10:30am ET.
 
 
 #### 2.1.2. Other Important Dates
 
-- **Last Day to Drop/Add:** Monday, February 6th
-- **Mid-Semester Grades Posted:** Friday, March 17th
-- **Last Day to Resign:** Friday, April 21st
-- **Final Grades Posted:** Saturday, May 27th
+- **Last Day to Drop/Add:** Tuesday, September 5th
+- **Mid-Semester Grades Posted:** Friday, October 20th
+- **Last Day to Resign:** Friday, November 10th
+- **Final Grades Posted:** Wednesday, December 27th
 
 
 
@@ -307,6 +304,11 @@ Calculate your Learning Check score.
   2. Divide this by the total number of possible learning checks.
   3. Multiply this by 100.
 
+Calculate your Participation score.
+  1. Count how many participation checks you earned.
+  2. Divide this by the total number of possible participation checks.
+  3. Multiply this by 100.
+
 Calculate your Final Average
   1. Multiply your Learning Check score by 0.25
   2. Multiply your Participation score by 0.10
@@ -346,11 +348,11 @@ Calculate your Final Average
 #### 5.2.1. Attendance Policy
 
 ```{include} ../components/05-attendance-policy.md
-:end-before: recitation
+:end-before: RECITATION
 ```
 
 ```{include} ../components/05-attendance-policy.md
-:start-after: recitation
+:start-after: RECITATION
 ```
 
 <!--
@@ -420,8 +422,7 @@ Calculate your Final Average
 #### 5.5.1. Calculator and Resource Policy
 
 ```{include} ../components/05-calculator-policy.md
-:start-after: no-calculator
-:end-before: calculator
+:start-after: ALLOW
 ```
 
 

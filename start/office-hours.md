@@ -12,7 +12,7 @@ Office Hours
 {octicon}`mail;1em;sd-text` Email: mjcasper@buffalo.edu (office hours is better)
 
 
-{octicon}`clock;1em;sd-text` Office Hours: Mon, Wed, Fri 12:30-1:30pm
+{octicon}`clock;1em;sd-text` Office Hours: Mon, Wed, Fri 11:30am-12:30pm
 
 
 {octicon}`organization;1em;sd-text` Location: Room 222 in the Math Building
@@ -23,6 +23,10 @@ Office Hours
 
 
 ## Teaching Assistants
+
+Coming soon
+
+<!--
 
 ### Section C
 
@@ -143,14 +147,11 @@ Office Hours
 
 ::::
 
+-->
+
 
 
 ## Where is the Math Building?
 
-You can find us on the [UB Campus Map!](https://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html)
-
-
-```{image} ../images/campus-map.png
-:alt: Location of Math Building
-:align: center
+```{include} ../components/start/math-building.md
 ```

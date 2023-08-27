@@ -8,12 +8,13 @@ These videos are not meant to replace the preparation videos and our regular lec
 ```
 
 
-|Reading|Lecture Video|Duration|Notes|
+|Reading|Lecture Video|Video Length (minutes)|Lecture Notes|
 | --- | --- | --- | --- |
-|6.1|[Antidifferentiation](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=24ac1f75-903a-4db0-a643-a90a00f44f70)|38|[Notes](https://buffalo.box.com/s/bvl4jk1lnex1n0wgf0a08s4p01h2c3kq)|
-|6.2|[The Definite Integral](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=666fa3a7-d586-4be2-b52a-a90a00f46b90)|34|[Notes](https://buffalo.box.com/s/a5re9ip5kjvgqg484dtmsr9uqozoliez)|
-|6.3|[The Area Under a Curve](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=93476975-2e67-4c07-9bb9-a90a00f4c1f4)|13|[Notes](https://buffalo.box.com/s/5vtt03wubew0hauxfqa0755cllcv29cs)|
-|6.4a|[The Area Between a Curve and the x-Axis](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7a88ac42-2143-4400-98fa-a90a00f4eb29)|26|[Notes](https://buffalo.box.com/s/d6ml1xlzc5jwtzn0590t40qr06tllflh)|
-|6.4b|[The Area Between Two Curves](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5c1dc7a9-36b2-484b-bf9f-a90a00f538b1)|27|[Notes](https://buffalo.box.com/s/spzzmy5scf3708j8fpuz9k1ileastkse)|
+|6.1|[Indefinite Integrals](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a7ceaf3f-90d7-4ddf-aaa9-af8e0127021b)|62|[Notes](https://buffalo.box.com/s/z58mctgbxsdnlillt8hkaqq00dy7et4z)|
+|6.2|[Substitution Rule](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=460d9582-3089-4d4d-a68d-af8f00ff9906)|68|[Notes](https://buffalo.box.com/s/eqtwvg2rj1a4cna11ow1w4q1kpqe06ao)|
+|6.4|[Definite Integrals](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=10f51f34-157f-4b7d-b5a1-af8f010962cc)|34|[Notes](https://buffalo.box.com/s/a4cbprc21xppd2oebhhsy9em5hz0ieyb)|
+|6.3, 6.4|[Area Under a Curve](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=59310035-c5de-421a-9dae-af9001087a3c)|50|[Notes](https://buffalo.box.com/s/0nw6pn3gl9cqd0jqvr8sjf2jopmi4zyt)|
+
+
 
 

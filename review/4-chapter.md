@@ -7,15 +7,15 @@ The videos included in this section are meant as review only; in case you are ab
 These videos are not meant to replace the preparation videos and our regular lecture and recitation times. 
 ```
 
-|Reading|Lecture Video|Duration|Notes|
+|Reading|Lecture Video|Video Length (minutes)|Lecture Notes|
 | --- | --- | --- | --- |
-|4.1|[Exponential Functions](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7085a46d-4cb6-4960-a857-a90a00f321d1)|14|[Notes](https://buffalo.box.com/s/9o4razu8vr4zusug5r2ydnatzib5m7ns)|
-|4.2|[The Natural Exponential Function](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a859445-0c93-4eae-8166-a90a00f3599e)|22|[Notes](https://buffalo.box.com/s/w73ekcyo9jj2phu8virdh9u6nnnjjauo)|
-|4.3|[The General Exponential Rule](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb229244-d734-47db-bf59-a90a00f38ae4)|15|[Notes](https://buffalo.box.com/s/iisngmnd0a7u4s1vcknk6xp0e8pqbrx5)|
-|4.4|[The Natural Logarithm Function](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b540228e-0e28-40d5-b07a-a90a00f3c0db)|14|[Notes](https://buffalo.box.com/s/01bsh09lka4uh8rsycgaxjrmjde95dx3)|
-|4.5|[The Derivative of the Natural Logarithm Function](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=77e62520-6447-4df9-825e-a90a00f3dc03)|17|[Notes](https://buffalo.box.com/s/ubg4ggnkjjz6awetwiy8m18jysbm9c09)|
-|4.6|[Properties of the Natural Logarithm Function](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2caed399-bd64-4c88-af7f-a90a00f3fe5c)|16|[Notes](https://buffalo.box.com/s/irtvyoarj1j052r2bya3u3kuh4dr9r5e)|
-
+|4.1|[Basic Derivative Rules](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c50f53b0-e9c6-4ee9-8e04-af8601051315)|36|[Notes](https://buffalo.box.com/s/1guzsilre40uxw534jxmey11ut8y4t2e)|
+|4.2|[Marginal Analysis](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=65ef01e4-5d9f-4ac2-ad7b-af86011096b9)|37|[Notes](https://buffalo.box.com/s/hnettkhaf2izdkg6ywfbefthnvklj6k8)|
+|4.3|[Product Rule](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7023d09f-714c-497f-b53a-af86011d278c)|30|[Notes](https://buffalo.box.com/s/pykgp2ku2fd7peb413q1wvoqj8abn2ms)|
+|4.3|[Quotient Rule](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=51e82b33-d0e4-4a9e-b18b-af860126646f)|33|[Notes](https://buffalo.box.com/s/bvnd6qehwi00gwp6ejwrrj908cr0d4nf)|
+|4.4|[Chain Rule](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=16189f95-2889-4b22-81f1-af8700f5e0cb)|45|[Notes](https://buffalo.box.com/s/ba4aue0qvo1up7wqefa29r7ap87dh4sh)|
+|4.5|[Derivatives of Logarithmic and Exponential Functions](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5cde994d-4696-4de5-875b-af8701066e8c)|52|[Notes](https://buffalo.box.com/s/2zppmrj3vjgi598wzilyxuuvag1yyqpe)|
+|4.6|[Implicit Differentiation](https://ub.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=502f68cc-e6a7-47ee-8b90-af870120b251)|57|[Notes](https://buffalo.box.com/s/0v7w94lya7b0pgvdgv0l22ty6qlimsil)|
 
 
 

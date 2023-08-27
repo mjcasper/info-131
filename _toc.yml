@@ -7,9 +7,16 @@ parts:
     - file: start/outcomes
     - file: start/webwork
     - file: start/lecture-notes
+  - caption: Assessments
+    chapters: 
+    - file: assessments/preparation
+    - file: assessments/homework
+  - caption: Weekly Calendar
+    chapters: 
+    - file: week/index
+    - file: week/1
   - caption: Help + Support
     chapters:
-    - file: start/grade-calculator
     - file: start/office-hours
     - file: start/additional-help
       sections:
@@ -21,33 +28,10 @@ parts:
         title: Student Success Gateway
     - file: review/index
       sections:
-      - file: review/0-chapter
       - file: review/1-chapter
       - file: review/2-chapter
       - file: review/3-chapter
       - file: review/4-chapter
       - file: review/5-chapter
       - file: review/6-chapter
-  - caption: Exam Info
-    chapters: 
-    - file: exams/midterm1
-    - file: exams/midterm2
-    - file: exams/midterm3
-  - caption: Weekly Calendar
-    chapters: 
-    - file: week/index
-    - file: week/1           
-    - file: week/2
-    - file: week/3
-    - file: week/4
-    - file: week/5
-    - file: week/6
-    - file: week/7
-    - file: week/8
-    - file: week/9
-    - file: week/10
-    - file: week/11
-    - file: week/12
-    - file: week/13
-    - file: week/14
-    - file: week/15
+      - file: review/7-chapter           
