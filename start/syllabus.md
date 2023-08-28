@@ -45,7 +45,7 @@ Mathematics Department
 
 **Teaching Assistants:** 
 
-- Justing Haverlick (jmhaverl@buffalo.edu) - section B1
+- Justin Haverlick (jmhaverl@buffalo.edu) - section B1
 - Michael Erickson (erickso2@buffalo.edu) - sections B2 and B3
 - Mars Andersen (anderse3@buffalo.edu) - sections C1 and C2
 - Jnanajyoti Bhaumik (jnanajyo@buffalo.edu) - section C3
