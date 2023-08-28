@@ -14,7 +14,10 @@ No preparation problems assigned for today.
 ```
 
 ```{dropdown} Day 1B: Wednesday, August 30th
-Problems will be posted after Monday's class
+Given the function: $f(x)=\dfrac{x^3}{4}-5\sqrt{x}$, evaluate the following expressions. First write the unsimplified value, and then the simplified value.
+
+1. $f(4)$
+2. $f(36)$
 
 
 ```
