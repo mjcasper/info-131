@@ -23,7 +23,7 @@ Given the function: $f(x)=\dfrac{x^3}{4}-5\sqrt{x}$, evaluate the following expr
 ```
 
 ```{dropdown} Day 1C: Friday, September 1st
-Problems will be posted after Wednesday's class
+Find an equation for the line through the points $(3,4)$ and $(-4,2)$.
 
 
 ```
