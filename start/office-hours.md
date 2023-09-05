@@ -48,7 +48,7 @@ Office Hours
 
 {octicon}`mail;1em;sd-text` Email: jmhaverl@buffalo.edu
 
-{octicon}`clock;1em;sd-text` Office Hours:  TBD
+{octicon}`clock;1em;sd-text` Office Hours:  Tues and Thurs 1-2pm
 
 
 {octicon}`organization;1em;sd-text` Location: Math 140
