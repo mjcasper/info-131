@@ -13,7 +13,7 @@ No preparation problems assigned for today.
 ```
 
 ```{dropdown} Day 2B: Wednesday, September 6th
-On Wednesday, a small bicycyle shop notices that it costs $10,000 to produce 20 electric bicycles. The following week, they notice that it costs $15,000 to produce 25 electric bicycles. Find a linear cost function.  
+On Wednesday, a small bicycyle shop notices that it costs $\$10,000$ to produce 20 electric bicycles. The following week, they notice that it costs $\$15,000$ to produce 25 electric bicycles. Find a linear cost function.  
 
 ```
 
