@@ -18,7 +18,11 @@ On Wednesday, a small bicycyle shop notices that it costs $\$10,000$ to produce 
 ```
 
 ```{dropdown} Day 3C: Friday, September 8th
-Preparation problems will be assigned after Wednesday's class.
+Consider the quadratic function: $f(x)=x^2-10x+9$, find the coordinates for the:
+
+1. Vertex
+2. $y$-intercept(s)
+3. $x$-intercept(s)
 
 ```
 
