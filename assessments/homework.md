@@ -7,7 +7,7 @@ Homework
 | Sept 6th at 11:59pm ET | [F1 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_F1) | #9 and 10 |
 | Sept 6th at 11:59pm ET | [F2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_F2) | #1, 2, and 4 |
 | Sept 11th at 11:59pm ET | [F3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_F3) | #5, 6, and 7 |
-| Sept 11th at 11:59pm ET | [F4 - Learning Outcome]| coming soon |
+| Sept 11th at 11:59pm ET | [F4 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_F4) | #1 and 4 |
 
 ```{admonition} Homework Notebook
 :class: tip 
