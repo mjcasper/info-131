@@ -17,7 +17,11 @@ Complete all preparation problems before class time on the scheduled date.
 ```
 
 ```{dropdown} Day 3B: Wednesday, September 13th
-Will be posted after Monday's class.
+**F7:** Write each expression into a single logarithm. Show all steps.
+
+1. $\ln(5)+3\ln(2)$
+
+2. $3\ln(x)+2\ln(2x-5)-4\ln(x^2+1)$
 
 ```
 
