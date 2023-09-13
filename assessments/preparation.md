@@ -26,7 +26,13 @@ Complete all preparation problems before class time on the scheduled date.
 ```
 
 ```{dropdown} Day 3C: Friday, September 15th
-Will be posted after Wednesday's class.
+**L1:** Write out a table with 8 input and function value pairs showing a function $f(x)$ satisfying the following limit:
+
+$$
+\lim_{x\to 3} f(x) = 9
+$$
+
+(Use the table given in the first example as a guide for what your response should look like.)
 
 ```
 
