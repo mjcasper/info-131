@@ -5,6 +5,39 @@ Preparation Problems
 Complete all preparation problems before class time on the scheduled date.
 
 
+
+## Week 4
+
+```{dropdown} Day 4A: Monday, September 18th
+**L1:** Draw the graph of a function $f(x)$ that satisfies all of the following properties:
+
+- $\displaystyle \lim_{x\to 0^-} f(x)=-2$
+
+- $\displaystyle \lim_{x\to 0^+} f(x)=3$
+
+- $f(0)=1$
+
+- $\displaystyle \lim_{x\to 3^-} f(x)=-\infty$
+
+- $\displaystyle \lim_{x\to 3^+} f(x)=+\infty$
+
+```
+
+
+
+```{dropdown} Day 4B: Wednesday, September 20th
+Will be posted after Monday's class.
+
+```
+
+```{dropdown} Day 4C: Friday, September 22nd
+Will be posted after Wednesday's class.
+
+```
+
+
+
+
 ## Week 3
 
 ```{dropdown} Day 3A: Monday, September 11th
