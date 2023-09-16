@@ -2,7 +2,7 @@ Welcome to Calculus
 ============================
 
 
-<!--
+
 
 Welcome to MTH 131 for the Fall 2023 semester! Our exciting Calculus-filled semester is underway! Below are the tasks for the current week.
 
@@ -10,8 +10,14 @@ Happy Calculus-ing!
 
 ~ Prof. Casper
 
--->
+## Week 4 Calendar
 
+```{include} week/4.md
+:start-after: Calendar
+```
+
+
+<!--
 
 Welcome to MTH 131 for the Fall 2023 semester! It's going to be an exciting Calculus-filled semester!
 
@@ -28,3 +34,5 @@ Happy Calculus-ing!
 
 ```{include} components/start/landing-getting-started.md
 ```
+
+-->
