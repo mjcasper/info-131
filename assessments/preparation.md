@@ -26,7 +26,12 @@ Complete all preparation problems before class time on the scheduled date.
 
 
 ```{dropdown} Day 4B: Wednesday, September 20th
-Will be posted after Monday's class.
+**L3:** Evaluate the following limits algebraically. (Factor the numerator and denominator as much as possible, and remember to use the limit notation in your work.)
+
+1. $\displaystyle \lim_{x\to 0} \dfrac{3x^2-2x}{5x}$
+
+
+1. $\displaystyle \lim_{x\to -2} \dfrac{x^2+4x+4}{x+2}$
 
 ```
 
