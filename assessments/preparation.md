@@ -36,7 +36,7 @@ Complete all preparation problems before class time on the scheduled date.
 ```
 
 ```{dropdown} Day 4C: Friday, September 22nd
-Will be posted after Wednesday's class.
+Using the table of S&P 500 values from our notes, calculate the average rate of change over the 3-year period 2009-2012.
 
 ```
 
