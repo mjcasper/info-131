@@ -6,6 +6,27 @@ Complete all preparation problems before class time on the scheduled date.
 
 
 
+## Week 5
+
+```{dropdown} Day 5A: Monday, September 25th
+No preparation problem assigned for today.
+
+```
+
+
+
+```{dropdown} Day 5B: Wednesday, September 27th
+Organize and bring all of your completed notes, problems, and papers with you to class.
+
+```
+
+```{dropdown} Day 5C: Friday, September 29th
+Study for Midterm Exam 1
+
+```
+
+
+
 ## Week 4
 
 ```{dropdown} Day 4A: Monday, September 18th
