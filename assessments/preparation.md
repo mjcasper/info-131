@@ -6,6 +6,34 @@ Complete all preparation problems before class time on the scheduled date.
 
 
 
+## Week 6
+
+```{dropdown} Day 6A: Monday, October 2nd
+No preparation problem assigned for today.
+
+```
+
+
+
+```{dropdown} Day 6B: Wednesday, October 4th
+Use the power rule to differentiate:
+
+1. $f(x)=x^4$
+
+2. $g(x)=x^{10}$
+
+3. $f(x)=\sqrt[3]{x}$
+
+```
+
+```{dropdown} Day 6C: Friday, October 6th
+Will be posted after Wednesday's class.
+
+```
+
+
+
+
 ## Week 5
 
 ```{dropdown} Day 5A: Monday, September 25th
