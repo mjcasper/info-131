@@ -27,7 +27,15 @@ Use the power rule to differentiate:
 ```
 
 ```{dropdown} Day 6C: Friday, October 6th
-Will be posted after Wednesday's class.
+Differentiate the following functions:
+
+1. $f(x)=6x^4$
+
+2. $g(x)=\dfrac{x^{10}}{3}$
+
+3. $f(x)=\dfrac{\sqrt[3]{x}}{4}$
+
+4. $h(x)=\dfrac{7}{x^4}$
 
 ```
 

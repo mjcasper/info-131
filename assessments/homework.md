@@ -18,8 +18,9 @@ Homework
 | Oct 2nd at 11:59pm ET | [L4 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_L4) | #7 and 8  |
 | Oct 2nd at 11:59pm ET | [L3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_L3) | #9, 11, 13, 16 |
 | Oct 2nd at 11:59pm ET | [L4 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_L4) | #7 and 8  |
-| Oct 11th at 11:59pm ET | [L5 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_L5) | #4 and 10 |
+| Oct 11th at 11:59pm ET | [L5 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_L5) | #4 |
 | Oct 11th at 11:59pm ET | [L6 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_L6) | #3, 5, and 8  |
+| Oct 11th at 11:59pm ET | [L7 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_L7) | #1 and 2  |
 
 ```{admonition} Homework Notebook
 :class: tip 
