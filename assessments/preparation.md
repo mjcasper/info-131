@@ -5,6 +5,31 @@ Preparation Problems
 Complete all preparation problems before class time on the scheduled date.
 
 
+## Week 7
+
+```{dropdown} Day 7A: Monday, October 9th
+No preparation problem assigned for today.
+
+```
+
+
+
+```{dropdown} Day 7B: Wednesday, October 11th
+Use the product rule to differentiate the following functions. Show all work.
+
+1. $f(x)=x^4(3x^2+5x)$
+
+2. $g(x)=\sqrt{x}(4x-6)$
+
+
+```
+
+```{dropdown} Day 7C: Friday, October 13th
+Will be posted after Wednesday's class.
+
+```
+
+
 
 ## Week 6
 

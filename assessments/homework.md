@@ -1,6 +1,20 @@
 Homework
 ============================
 
+## Current Sets
+
+
+| Due Date | WeBWorK | Notebook |
+|----------|---------|----------|
+| Oct 11th at 11:59pm ET | [L5 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_L5) | #4 |
+| Oct 11th at 11:59pm ET | [L6 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_L6) | #3, 5, and 8  |
+| Oct 11th at 11:59pm ET | [L7 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_L7) | #1 and 2  |
+| Oct 16th at 11:59pm ET | [D1 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_D1) | No HW Notebook  |
+<!--| Oct 16th at 11:59pm ET | [D2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_D2) | #3 and 5  |
+| Oct 16th at 11:59pm ET | [D3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_D3) | #3 and 5  |-->
+
+## Retired Sets
+
 
 | Due Date | WeBWorK | Notebook |
 |----------|---------|----------|
@@ -14,8 +28,6 @@ Homework
 | Sept 25th at 11:59pm ET | [F8 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_F8) | #4 and 5 |
 | Sept 25th at 11:59pm ET | [L1 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_L1) | No HW Notebook |
 | Sept 25th at 11:59pm ET | [L2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_L2) | #9 and 10 (include the graph in your work) |
-| Oct 2nd at 11:59pm ET | [L3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_L3) | #9, 11, 13, 16 |
-| Oct 2nd at 11:59pm ET | [L4 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_L4) | #7 and 8  |
 | Oct 2nd at 11:59pm ET | [L3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_L3) | #9, 11, 13, 16 |
 | Oct 2nd at 11:59pm ET | [L4 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_L4) | #7 and 8  |
 | Oct 11th at 11:59pm ET | [L5 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_L5) | #4 |
