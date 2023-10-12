@@ -25,7 +25,11 @@ Use the product rule to differentiate the following functions. Show all work.
 ```
 
 ```{dropdown} Day 7C: Friday, October 13th
-Will be posted after Wednesday's class.
+Use the quotient rule to differentiate the following functions. Show all work.
+
+1. $f(x)=\dfrac{3x+1}{x^2+7}$
+
+2. $g(x)=\dfrac{6x^3-x}{5x-2}$
 
 ```
 
