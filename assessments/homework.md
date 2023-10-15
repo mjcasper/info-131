@@ -11,7 +11,7 @@ Homework
 | Oct 11th at 11:59pm ET | [L7 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_L7) | #1 and 2  |
 | Oct 16th at 11:59pm ET | [D1 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_D1) | No HW Notebook  |
 | Oct 16th at 11:59pm ET | [D2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_D2) | #3 and 5  |
-<!--| Oct 16th at 11:59pm ET | [D3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_D3) | #3 and 5  |-->
+| Oct 23rd at 11:59pm ET | [D3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_D3) | #4 and 5 (Show the product rule in your work.) |-->
 
 ## Retired Sets
 

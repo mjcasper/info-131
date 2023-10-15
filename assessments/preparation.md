@@ -5,6 +5,33 @@ Preparation Problems
 Complete all preparation problems before class time on the scheduled date.
 
 
+## Week 8
+
+```{dropdown} Day 8A: Monday, October 16th
+Given functions $f(x)=3x^2+4x$ and $u(x)=\sqrt{x}$ calculate the following compositions:
+
+1. $f(u(x))$
+2. $u(f(x))$
+
+
+```
+
+
+
+```{dropdown} Day 8B: Wednesday, October 18th
+Posted after Monday's class.
+
+
+```
+
+```{dropdown} Day 8C: Friday, October 20th
+Posted after Wednesday's class.
+
+
+
+```
+
+
 ## Week 7
 
 ```{dropdown} Day 7A: Monday, October 9th
