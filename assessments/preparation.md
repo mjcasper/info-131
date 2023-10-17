@@ -19,7 +19,11 @@ Given functions $f(x)=3x^2+4x$ and $u(x)=\sqrt{x}$ calculate the following compo
 
 
 ```{dropdown} Day 8B: Wednesday, October 18th
-Posted after Monday's class.
+Differentiate the following functions. Show the chain rule step in your work.
+
+1. $f(x)=\ln \left( x^3+5 \right)$
+
+2. $g(x)=\ln \left( (4x+6)^5 \right)$
 
 
 ```
