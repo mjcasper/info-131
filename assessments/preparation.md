@@ -28,8 +28,13 @@ Differentiate the following functions. Show the chain rule step in your work.
 
 ```
 
+
 ```{dropdown} Day 8C: Friday, October 20th
-Posted after Wednesday's class.
+Calculate $\dfrac{dy}{dx}$ given the following equation:
+
+$$
+y^6 +2y +3x = 0
+$$
 
 
 

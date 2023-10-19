@@ -13,7 +13,7 @@ Homework
 | Oct 16th at 11:59pm ET | [D2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_D2) | #3 and 5  |
 | Oct 23rd at 11:59pm ET | [D3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_D3) | #4 and 5 (Show the product rule step in your work.) |
 | Oct 23rd at 11:59pm ET | [D4 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_D4) | #2 and 4 (Show the quotient rule step in your work.) |
-| Oct 23rd at 11:59pm ET | [D5 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_D5) | #6 and 8 (Show the chain rule step in your work.) |
+| Oct 30th at 11:59pm ET | [D5 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_D5) | #3, 11, 12 (Show the $[ ]'$ step(s) in your work.) |
 
 ## Retired Sets
 
