@@ -12,7 +12,7 @@ Midterm Exam 2
 
 - **Student ID:** Bring either your UB Student ID or government issued ID.
 
- - **Calculator Policy:** Calculators are NOT allowed. _The exam questions are written so that a calculator is not needed._
+- **Calculator Policy:** Only the Texas Instruments TI-30XIIS calculator is allowed. Use of any other calculator or device will automatically result in a 0 on the exam. See the [calculator policy](https://info-131.bluetangent.org/start/syllabus#calculator-and-resource-policy) in the syllabus for more details.
 
 - **References/resources policy:** No outside references/resources allowed during the exam.  The only references/resources allowed during the exam are those provided as part of the exam packet. 
     - No reference page will be provided.  
