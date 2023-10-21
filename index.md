@@ -27,9 +27,9 @@ Happy Calculus-ing!
 
 
 
-## Week 8 Calendar
+## Week 9 Calendar
 
-```{include} week/8.md
+```{include} week/9.md
 :start-after: Calendar
 ```
 

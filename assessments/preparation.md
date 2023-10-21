@@ -5,6 +5,35 @@ Preparation Problems
 Complete all preparation problems before class time on the scheduled date.
 
 
+## Week 9
+
+```{dropdown} Day 9A: Monday, October 23rd
+Find the possible extreme locations for the function:
+
+$$
+f(x)= \tfrac{1}{3}x^3-2x^2-12x + 5
+
+$$
+
+
+```
+
+
+
+```{dropdown} Day 9B: Wednesday, October 25th
+Will be posted after Monday's class.
+
+
+```
+
+
+```{dropdown} Day 9C: Friday, October 27th
+No prep problem for today.
+
+```
+
+
+
 ## Week 8
 
 ```{dropdown} Day 8A: Monday, October 16th
