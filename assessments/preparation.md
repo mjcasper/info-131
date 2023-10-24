@@ -21,7 +21,12 @@ $$
 
 
 ```{dropdown} Day 9B: Wednesday, October 25th
-Will be posted after Monday's class.
+Use the first derivative to find and classify the critical numbers for the function:
+
+$$
+f(x)=x^2-4x
+$$
+
 
 
 ```
