@@ -5,6 +5,30 @@ Preparation Problems
 Complete all preparation problems before class time on the scheduled date.
 
 
+## Week 10
+
+```{dropdown} Day 10A: Monday, October 30th
+No prep problem for today.
+
+
+```
+
+
+
+```{dropdown} Day 10B: Wednesday, November 1st
+Posted after Monday's class.
+
+
+
+```
+
+
+```{dropdown} Day 9C: Friday, October 27th
+Posted after Wednesday's class.
+
+```
+
+
 ## Week 9
 
 ```{dropdown} Day 9A: Monday, October 23rd
