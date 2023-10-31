@@ -17,8 +17,8 @@ Homework
 | Oct 30th at 11:59pm ET | [D6 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_D6) | #3, 11, 12 (Show the $[ ]'$ step(s) in your work.) |
 | Oct 30th at 11:59pm ET | [D7 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_D7) | #5, 7, 9 (Show the $[ ]'$ step(s) in your work.) |
 | Nov 6th at 11:59pm ET | [O1 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_O1) | #7, 8 |
-| Nov 6th at 11:59pm ET | [O1 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_O1) | #7, 8 |
 | Nov 6th at 11:59pm ET | [O2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_O2) | #4, 7 |
+| Nov 6th at 11:59pm ET | [O3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_O3) | #4, 5, 6 |
 
 
 ## Retired Sets

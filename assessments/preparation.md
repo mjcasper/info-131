@@ -16,7 +16,11 @@ No prep problem for today.
 
 
 ```{dropdown} Day 10B: Wednesday, November 1st
-Posted after Monday's class.
+Calculate the second derivative of the following functions:
+
+1. $f(x)=4x^3+5x-6$
+
+2. $g(x)=\\drac{4}{x^2}+6\\ln(x)$
 
 
 
