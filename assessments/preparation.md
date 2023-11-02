@@ -27,8 +27,13 @@ Calculate the second derivative of the following functions:
 ```
 
 
-```{dropdown} Day 9C: Friday, October 27th
-Posted after Wednesday's class.
+```{dropdown} Day 10C: Friday, November 3rd
+Find and classify all critical points of the following function. Use the second derivative to classify the critical points.
+
+$$
+f(x)=3x^2-9x
+$$
+
 
 ```
 
