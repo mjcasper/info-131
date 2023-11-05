@@ -20,7 +20,7 @@ Homework
 | Nov 6th at 11:59pm ET | [O2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_O2) | #4, 7 |
 | Nov 6th at 11:59pm ET | [O3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_O3) | #4, 5, 6 |
 | Nov 13th at 11:59pm ET | [O4 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_O4) | No HW Notebook |
-
+| Nov 13th at 11:59pm ET | [O5 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_O5) | #1, 2, 3 |
 
 
 ## Retired Sets
