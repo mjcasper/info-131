@@ -16,7 +16,7 @@ No prep problem for today.
 
 
 ```{dropdown} Day 11B: Wednesday, November 8th
-Posted after Monday's class.
+Given the equation $3x^2+6y^2=33$. Calculate $\dfrac{dy}{dt}$ at a time when $x=3$, $y=1$ and $\dfrac{dx}{dt}=4$.
 
 
 
