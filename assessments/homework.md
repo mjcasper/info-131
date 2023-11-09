@@ -6,22 +6,11 @@ Homework
 
 | Due Date | WeBWorK | Notebook |
 |----------|---------|----------|
-| Oct 11th at 11:59pm ET | [L5 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_L5) | #4 |
-| Oct 11th at 11:59pm ET | [L6 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_L6) | #3, 5, and 8  |
-| Oct 11th at 11:59pm ET | [L7 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_L7) | #1 and 2  |
-| Oct 16th at 11:59pm ET | [D1 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_D1) | No HW Notebook  |
-| Oct 16th at 11:59pm ET | [D2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_D2) | #3 and 5  |
-| Oct 23rd at 11:59pm ET | [D3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_D3) | #4 and 5 (Show the product rule step in your work.) |
-| Oct 23rd at 11:59pm ET | [D4 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_D4) | #2 and 4 (Show the quotient rule step in your work.) |
-| Oct 23rd at 11:59pm ET | [D5 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_D5) | #6 and 8 (Show the chain rule step in your work.) |
-| Oct 30th at 11:59pm ET | [D6 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_D6) | #3, 11, 12 (Show the $[ ]'$ step(s) in your work.) |
-| Oct 30th at 11:59pm ET | [D7 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_D7) | #5, 7, 9 (Show the $[ ]'$ step(s) in your work.) |
-| Nov 6th at 11:59pm ET | [O1 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_O1) | #7, 8 |
-| Nov 6th at 11:59pm ET | [O2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_O2) | #4, 7 |
-| Nov 6th at 11:59pm ET | [O3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_O3) | #4, 5, 6 |
 | Nov 13th at 11:59pm ET | [O4 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_O4) | No HW Notebook |
 | Nov 13th at 11:59pm ET | [O5 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_O5) | #1, 2, 3 |
 | Nov 13th at 11:59pm ET | [O6 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_O6) | #5, 6, 7 (Sketch the graph for all of these) |
+| Nov 20th at 11:59pm ET | [O7 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_O7) | #2, 4, 6 |
+| Nov 20th at 11:59pm ET | [O8 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_O8) | #4, 6, 8 |
 
 
 ## Retired Sets
@@ -44,6 +33,16 @@ Homework
 | Oct 11th at 11:59pm ET | [L5 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_L5) | #4 |
 | Oct 11th at 11:59pm ET | [L6 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_L6) | #3, 5, and 8  |
 | Oct 11th at 11:59pm ET | [L7 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_L7) | #1 and 2  |
+| Oct 16th at 11:59pm ET | [D1 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_D1) | No HW Notebook  |
+| Oct 16th at 11:59pm ET | [D2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_D2) | #3 and 5  |
+| Oct 23rd at 11:59pm ET | [D3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_D3) | #4 and 5 (Show the product rule step in your work.) |
+| Oct 23rd at 11:59pm ET | [D4 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_D4) | #2 and 4 (Show the quotient rule step in your work.) |
+| Oct 23rd at 11:59pm ET | [D5 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_D5) | #6 and 8 (Show the chain rule step in your work.) |
+| Oct 30th at 11:59pm ET | [D6 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_D6) | #3, 11, 12 (Show the $[ ]'$ step(s) in your work.) |
+| Oct 30th at 11:59pm ET | [D7 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_D7) | #5, 7, 9 (Show the $[ ]'$ step(s) in your work.) |
+| Nov 6th at 11:59pm ET | [O1 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_O1) | #7, 8 |
+| Nov 6th at 11:59pm ET | [O2 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_O2) | #4, 7 |
+| Nov 6th at 11:59pm ET | [O3 - Learning Outcome](https://webwork.sens.buffalo.edu/webwork2/2023-08-MTH-131-Casper/Learning_Outcome_O3) | #4, 5, 6 |
 
 ```{admonition} Homework Notebook
 :class: tip 

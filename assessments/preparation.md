@@ -24,7 +24,13 @@ Given the equation $3x^2+6y^2=33$. Calculate $\dfrac{dy}{dt}$ at a time when $x=
 
 
 ```{dropdown} Day 11C: Friday, November 10th
-Posted after Wednesday's class.
+Use the given Elasticity of Demand to determine an approximation for the percentage change in revenue caused by a $1\%$ increase in price for each of the following values of $E$:
+
+1. $E=\dfrac{1}{5}$
+
+2. $E= 5$
+
+3. $E=1$
 
 
 
