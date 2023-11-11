@@ -5,6 +5,33 @@ Preparation Problems
 Complete all preparation problems before class time on the scheduled date.
 
 
+
+## Week 12
+
+```{dropdown} Day 12A: Monday, November 13th
+Write down 5 different antiderivatives of the function $f(x)=\dfrac{1}{3}x^3$.
+
+
+```
+
+
+
+```{dropdown} Day 12B: Wednesday, November 15th
+Posted after Monday's class.
+
+
+
+```
+
+
+```{dropdown} Day 12C: Friday, November 17th
+Posted after Wednesday's class.
+
+
+```
+
+
+
 ## Week 11
 
 ```{dropdown} Day 11A: Monday, November 6th
