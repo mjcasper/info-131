@@ -17,7 +17,11 @@ Write down 5 different antiderivatives of the function $f(x)=\dfrac{1}{3}x^3$.
 
 
 ```{dropdown} Day 12B: Wednesday, November 15th
-Posted after Monday's class.
+Use the substitution rule to calculate the following integral:
+
+$$
+\int 12x (3x^2+5)^4 \; dx
+$$
 
 
 
