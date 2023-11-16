@@ -29,7 +29,11 @@ $$
 
 
 ```{dropdown} Day 12C: Friday, November 17th
-Posted after Wednesday's class.
+Use the substitution rule to calculate the following integral:
+
+$$
+\int 4x e^{x^2+5} \; dx
+$$
 
 
 ```
