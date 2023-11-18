@@ -5,6 +5,36 @@ Preparation Problems
 Complete all preparation problems before class time on the scheduled date.
 
 
+## Week 13
+
+```{dropdown} Day 13A: Monday, November 20th
+Evaluate the following definite integral. Use integral and evaluation notation in your work.
+
+$$
+\int_0^1 \left( 4-6x^2 \right) \; dx
+$$
+
+
+
+```
+
+
+
+```{dropdown} Day 13B: Wednesday, November 22nd
+Thanksgiving Recess. No preparation for today.
+
+
+
+```
+
+
+```{dropdown} Day 13C: Friday, November 24th
+Thanksgiving Recess. No preparation for today.
+
+
+
+```
+
 
 ## Week 12
 
