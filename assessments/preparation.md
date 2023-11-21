@@ -5,6 +5,39 @@ Preparation Problems
 Complete all preparation problems before class time on the scheduled date.
 
 
+## Week 15
+
+```{dropdown} Day 15A: Monday, December 4th
+Find the area of the region:
+
+- bounded below by $y=-e^{2x}$
+- bounded above by $y=3x^2+1$
+- bounded on the sides by $x=0$ and $x=2$.
+
+
+
+
+
+```
+
+
+
+```{dropdown} Day 15B: Wednesday, December 6th
+No prep problem for today.
+
+
+
+```
+
+
+```{dropdown} Day 15C: Friday, December 8th
+No prep problem for today.
+
+
+
+```
+
+
 ## Week 14
 
 ```{dropdown} Day 14A: Monday, November 27th
@@ -24,7 +57,7 @@ $$
 Compute the area under the given curve:
 
 $$
-f(x)=5\sqrt{x} +2e^x\qquad\text{from} x=1 \quad \text{to} \quad  x=4
+f(x)=5\sqrt{x} +2e^x\qquad\text{from} \quad x=1 \quad \text{to} \quad  x=4
 $$
 
 
