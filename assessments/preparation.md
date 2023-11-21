@@ -5,6 +5,42 @@ Preparation Problems
 Complete all preparation problems before class time on the scheduled date.
 
 
+## Week 14
+
+```{dropdown} Day 14A: Monday, November 27th
+Use integration by parts to calculate the integral:
+
+$$
+\int \left( 2x+1 \right)e^x \; dx
+$$
+
+
+
+```
+
+
+
+```{dropdown} Day 14B: Wednesday, November 29th
+Compute the area under the given curve:
+
+$$
+f(x)=5\sqrt{x} +2e^x\qquad\text{from} x=1 \quad \text{to} \quad  x=4
+$$
+
+
+
+```
+
+
+```{dropdown} Day 14C: Friday, December 1st
+No prep problem for today.
+
+
+
+```
+
+
+
 ## Week 13
 
 ```{dropdown} Day 13A: Monday, November 20th
