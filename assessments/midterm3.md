@@ -4,7 +4,7 @@ Midterm Exam 3
 
 ## Logistics
 
-> **Date:** Friday, December 1st 2023
+> **Date:** Friday, December 1st, 2023
 >
 > **Time:** during our regular lecture time.
 >
@@ -26,7 +26,6 @@ Midterm Exam 3
 - **Number of Questions:** 10 problems.
     - These will be similar in format to the Checkpoint Exam questions.
     - There will be one question per learning outcome (just like the Checkpoint Exams).
-    - For topics D6 and D7 you should really practice the homework problems.
 
 - **Simplifying:** Unless otherwise stated on the exam, you do not need to simplify your answers.
 
@@ -52,7 +51,7 @@ The more problems you do, the better prepared you will be!
 
 For any learning outcome still marked as Progressing on any Checkpoint Exam:
 
-- If you score a 90% or better on a Midterm Exam 2 question which tests the same learning outcome, you will earn (M) Meets Expectations for that learning outcome. 
+- If you score a 90% or better on a Midterm Exam 3 question which tests the same learning outcome, you will earn (M) Meets Expectations for that learning outcome. 
 
 
 
